@@ -1,0 +1,314 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Research Papers"
+    },
+    {
+      "description": "The explosion of general-purpose LLMs created massive public interest in whether ChatGPT, Claude, and Grok could play poker. Short answer: they can't — not at a competitive level. But the experiments were fascinating.",
+      "items": [],
+      "title": "LLMs vs Poker: The 2025-2026 Wave"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSpiel",
+          "description": "Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:12:55Z",
+            "owner": "google-deepmind",
+            "repo": "open_spiel",
+            "stars": 5408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLCard",
+          "description": "Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T23:01:52Z",
+            "owner": "datamllab",
+            "repo": "rlcard",
+            "stars": 3537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyPokerEngine",
+          "description": "Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-10T13:40:46Z",
+            "owner": "ishikota",
+            "repo": "PyPokerEngine",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neuron_poker",
+          "description": "Texas Hold'em OpenAI Gym environment with Keras-RL and a C++ equity module (~500x faster than Python).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-04T03:48:33Z",
+            "owner": "dickreuter",
+            "repo": "neuron_poker",
+            "stars": 721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokerRL",
+          "description": "Multi-agent deep RL framework implementing NFSP, Deep CFR, Single Deep CFR, and RPG; supports distributed computing via Ray.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-31T14:35:48Z",
+            "owner": "EricSteinberger",
+            "repo": "PokerRL",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokerKit",
+          "description": "Comprehensive Python library supporting Texas Hold'em, Omaha, Stud, Razz, and custom game variants (University of Toronto). Paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T12:06:27Z",
+            "owner": "uoftcprg",
+            "repo": "pokerkit",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deepcfr-texas-no-limit-holdem-6-players",
+          "description": "Deep CFR implementation for 6-player NLHE with progressive training phases (random opponents → self-play → mixed pools), GRU-based opponent modeling, and a PyQt5 GUI. 80+ stars (2024-2025).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T08:25:06Z",
+            "owner": "dberweger2017",
+            "repo": "deepcfr-texas-no-limit-holdem-6-players",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clubs",
+          "description": "Python poker engine with OpenAI Gym interface; supports arbitrary community card game configurations (~714K hand evaluations/sec).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-06T07:49:07Z",
+            "owner": "fschlatt",
+            "repo": "clubs",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Open-Source Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deuces",
+          "description": "Original pure-Python hand evaluation library, written for the MIT Pokerbots Competition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-08T22:57:19Z",
+            "owner": "worldveil",
+            "repo": "deuces",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PokerHandEvaluator",
+          "description": "High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T21:48:31Z",
+            "owner": "HenryRLee",
+            "repo": "PokerHandEvaluator",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "treys",
+          "description": "Python 3 hand evaluator using bit arithmetic and lookup tables; evaluates 5/6/7 card hands (~250K evaluations/sec).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-15T02:24:10Z",
+            "owner": "ihendley",
+            "repo": "treys",
+            "stars": 177
+          }
+        }
+      ],
+      "title": "Hand Evaluators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TexasSolver",
+          "description": "Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-13T10:06:22Z",
+            "owner": "bupticybee",
+            "repo": "TexasSolver",
+            "stars": 2508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReBeL",
+          "description": "Meta's official open-source implementation of the ReBeL algorithm for imperfect-information games.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-03-20T15:33:47Z",
+            "owner": "facebookresearch",
+            "repo": "rebel",
+            "stars": 700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postflop-solver",
+          "description": "Rust-based postflop GTO solver using Discounted CFR. Also available as a web app and desktop app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-09T07:11:20Z",
+            "owner": "b-inary",
+            "repo": "postflop-solver",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slumbot2019",
+          "description": "C++ CFR implementations (CFR+, MCCFR, Targeted CFR) by the creator of Slumbot, a multi-year ACPC champion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-18T20:03:13Z",
+            "owner": "ericgjackson",
+            "repo": "slumbot2019",
+            "stars": 175
+          }
+        }
+      ],
+      "title": "Open-Source Solvers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Commercial Solvers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Training Platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Poker Bots"
+    },
+    {
+      "description": "A growing number of projects attempt to use general-purpose LLMs for poker. None are competitive with CFR-based solvers, but they serve as research tools and benchmarks for LLM reasoning capabilities.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HarperJonesGPT/PokerGPT",
+          "description": "PokerStars screen-reading bot using GPT-4 API for decision-making via OCR + prompt engineering. Not fine-tuned — pure API calls. A hobby project, not competitive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-12-26T16:47:18Z",
+            "owner": "HarperJonesGPT",
+            "repo": "PokerGPT",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poker_LLM",
+          "description": "AI-powered Texas Hold'em framework where LLMs (OpenAI, Claude, DeepSeek, QWen) act as players. Includes a Vue 3 replay visualization system and AI self-reflection on decisions. Python + Vue 3 (2024-2025).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-19T01:48:27Z",
+            "owner": "whmmy",
+            "repo": "poker_LLM",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "LLM Poker Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Educational Resources"
+    },
+    {
+      "description": "Contributions welcome! Please submit a pull request or open an issue to suggest additions.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:39.007Z",
+    "original_repository": "PokerBotAI/awesome-poker-ai",
+    "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
+    "enhanced_repository": "enhansome/enhansome-poker-ai",
+    "enhanced_repository_description": null,
+    "title": "Awesome Poker AI with stars"
+  }
+}
