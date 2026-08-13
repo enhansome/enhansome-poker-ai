@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T21:12:55Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5408
+            "stars": 5409
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3537
+            "stars": 3538
           }
         },
         {
@@ -80,7 +80,7 @@
             "last_commit": "2023-03-31T14:35:48Z",
             "owner": "EricSteinberger",
             "repo": "PokerRL",
-            "stars": 535
+            "stars": 536
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2026-07-13T10:06:22Z",
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2508
+            "stars": 2509
           }
         },
         {
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:15:39.007Z",
+    "last_updated": "2026-08-13T17:08:44.716Z",
     "original_repository": "PokerBotAI/awesome-poker-ai",
     "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
     "enhanced_repository": "enhansome/enhansome-poker-ai",
