@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T21:12:55Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5411
+            "stars": 5412
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2023-09-18T20:03:13Z",
             "owner": "ericgjackson",
             "repo": "slumbot2019",
-            "stars": 175
+            "stars": 176
           }
         }
       ],
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:06:27.410Z",
+    "last_updated": "2026-08-15T16:36:54.121Z",
     "original_repository": "PokerBotAI/awesome-poker-ai",
     "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
     "enhanced_repository": "enhansome/enhansome-poker-ai",
