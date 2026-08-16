@@ -204,7 +204,7 @@
             "last_commit": "2024-03-20T15:33:47Z",
             "owner": "facebookresearch",
             "repo": "rebel",
-            "stars": 700
+            "stars": 701
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2023-09-18T20:03:13Z",
             "owner": "ericgjackson",
             "repo": "slumbot2019",
-            "stars": 176
+            "stars": 177
           }
         }
       ],
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:36:54.121Z",
+    "last_updated": "2026-08-16T16:38:14.892Z",
     "original_repository": "PokerBotAI/awesome-poker-ai",
     "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
     "enhanced_repository": "enhansome/enhansome-poker-ai",
