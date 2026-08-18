@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T21:12:55Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5411
+            "stars": 5413
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3538
+            "stars": 3540
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-06-30T08:25:06Z",
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2024-07-08T22:57:19Z",
             "owner": "worldveil",
             "repo": "deuces",
-            "stars": 623
+            "stars": 624
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-10T21:48:31Z",
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2026-07-13T10:06:22Z",
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2513
+            "stars": 2517
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2026-01-19T01:48:27Z",
             "owner": "whmmy",
             "repo": "poker_LLM",
-            "stars": 41
+            "stars": 40
           }
         }
       ],
@@ -304,7 +304,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:41:12.577Z",
+    "last_updated": "2026-08-18T16:45:43.071Z",
     "original_repository": "PokerBotAI/awesome-poker-ai",
     "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
     "enhanced_repository": "enhansome/enhansome-poker-ai",
