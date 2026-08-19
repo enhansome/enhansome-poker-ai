@@ -66,9 +66,9 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Frameworks
 
-* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,413 | 🐛 48 | 🌐 C++ | 📅 2026-08-12 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
+* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,418 | 🐛 50 | 🌐 C++ | 📅 2026-08-12 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,540 | 🐛 80 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,541 | 🐛 80 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
 
 * [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) ⭐ 722 | 🐛 21 | 🌐 Python | 📅 2024-04-10 — Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.
 
@@ -76,7 +76,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 * [PokerRL](https://github.com/EricSteinberger/PokerRL) ⭐ 536 | 🐛 8 | 🌐 Python | 📅 2023-03-31 — Multi-agent deep RL framework implementing NFSP, Deep CFR, Single Deep CFR, and RPG; supports distributed computing via Ray.
 
-* [PokerKit](https://github.com/uoftcprg/pokerkit) ⭐ 487 | 🐛 0 | 🌐 Python | 📅 2026-05-22 — Comprehensive Python library supporting Texas Hold'em, Omaha, Stud, Razz, and custom game variants (University of Toronto). [Paper](https://arxiv.org/abs/2308.07327).
+* [PokerKit](https://github.com/uoftcprg/pokerkit) ⭐ 488 | 🐛 0 | 🌐 Python | 📅 2026-05-22 — Comprehensive Python library supporting Texas Hold'em, Omaha, Stud, Razz, and custom game variants (University of Toronto). [Paper](https://arxiv.org/abs/2308.07327).
 
 * [deepcfr-texas-no-limit-holdem-6-players](https://github.com/dberweger2017/deepcfr-texas-no-limit-holdem-6-players) ⭐ 102 | 🐛 2 | 🌐 Python | 📅 2026-06-30 — Deep CFR implementation for 6-player NLHE with progressive training phases (random opponents → self-play → mixed pools), GRU-based opponent modeling, and a PyQt5 GUI. 80+ stars (2024-2025).
 
@@ -88,15 +88,15 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 * [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) ⭐ 513 | 🐛 7 | 🌐 C | 📅 2026-08-10 — High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.
 
-* [treys](https://github.com/ihendley/treys) ⭐ 177 | 🐛 13 | 🌐 Python | 📅 2023-07-15 — Python 3 hand evaluator using bit arithmetic and lookup tables; evaluates 5/6/7 card hands (\~250K evaluations/sec).
+* [treys](https://github.com/ihendley/treys) ⭐ 179 | 🐛 13 | 🌐 Python | 📅 2023-07-15 — Python 3 hand evaluator using bit arithmetic and lookup tables; evaluates 5/6/7 card hands (\~250K evaluations/sec).
 
 ## Open-Source Solvers
 
-* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,517 | 🐛 90 | 🌐 C++ | 📅 2026-07-13 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
+* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,518 | 🐛 90 | 🌐 C++ | 📅 2026-08-19 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
 
 * [ReBeL](https://github.com/facebookresearch/rebel) ⚠️ Archived — Meta's official open-source implementation of the ReBeL algorithm for imperfect-information games.
 
-* [postflop-solver](https://github.com/b-inary/postflop-solver) ⭐ 363 | 🐛 11 | 🌐 Rust | 📅 2024-07-09 — Rust-based postflop GTO solver using Discounted CFR. Also available as a [web app](https://wasm-postflop.pages.dev/) and [desktop app](https://github.com/b-inary/desktop-postflop) ⭐ 345 | 🐛 12 | 🌐 Vue | 📅 2023-11-13.
+* [postflop-solver](https://github.com/b-inary/postflop-solver) ⭐ 364 | 🐛 11 | 🌐 Rust | 📅 2024-07-09 — Rust-based postflop GTO solver using Discounted CFR. Also available as a [web app](https://wasm-postflop.pages.dev/) and [desktop app](https://github.com/b-inary/desktop-postflop) ⭐ 346 | 🐛 12 | 🌐 Vue | 📅 2023-11-13.
 
 * [slumbot2019](https://github.com/ericgjackson/slumbot2019) ⭐ 177 | 🐛 26 | 🌐 C++ | 📅 2023-09-18 — C++ CFR implementations (CFR+, MCCFR, Targeted CFR) by the creator of Slumbot, a multi-year ACPC champion.
 
@@ -200,4 +200,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

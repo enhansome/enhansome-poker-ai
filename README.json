@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Research Papers"
-    },
-    {
-      "description": "The explosion of general-purpose LLMs created massive public interest in whether ChatGPT, Claude, and Grok could play poker. Short answer: they can't — not at a competitive level. But the experiments were fascinating.",
-      "items": [],
-      "title": "LLMs vs Poker: The 2025-2026 Wave"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198232685,
             "language": "C++",
             "last_commit": "2026-08-12T21:12:55Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5413
+            "stars": 5418
           }
         },
         {
@@ -34,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206562316,
             "language": "Python",
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3540
+            "stars": 3541
           }
         },
         {
@@ -48,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60441516,
             "language": "Python",
             "last_commit": "2024-04-10T13:40:46Z",
             "owner": "ishikota",
@@ -62,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193956118,
             "language": "Python",
             "last_commit": "2025-08-04T03:48:33Z",
             "owner": "dickreuter",
@@ -76,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169468115,
             "language": "Python",
             "last_commit": "2023-03-31T14:35:48Z",
             "owner": "EricSteinberger",
@@ -90,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338274995,
             "language": "Python",
             "last_commit": "2026-05-22T12:06:27Z",
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 487
+            "stars": 488
           }
         },
         {
@@ -104,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 939549761,
             "language": "Python",
             "last_commit": "2026-06-30T08:25:06Z",
             "owner": "dberweger2017",
@@ -118,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248792358,
             "language": "Python",
             "last_commit": "2024-02-06T07:49:07Z",
             "owner": "fschlatt",
@@ -129,7 +127,7 @@
       "title": "Open-Source Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -138,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12205283,
             "language": "Python",
             "last_commit": "2024-07-08T22:57:19Z",
             "owner": "worldveil",
@@ -152,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53184524,
             "language": "C",
             "last_commit": "2026-08-10T21:48:31Z",
             "owner": "HenryRLee",
@@ -166,18 +166,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113833749,
             "language": "Python",
             "last_commit": "2023-07-15T02:24:10Z",
             "owner": "ihendley",
             "repo": "treys",
-            "stars": 177
+            "stars": 179
           }
         }
       ],
       "title": "Hand Evaluators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -186,11 +187,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237020873,
             "language": "C++",
-            "last_commit": "2026-07-13T10:06:22Z",
+            "last_commit": "2026-08-19T06:34:19Z",
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2517
+            "stars": 2518
           }
         },
         {
@@ -200,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 278684830,
             "language": "C++",
             "last_commit": "2024-03-20T15:33:47Z",
             "owner": "facebookresearch",
@@ -214,11 +217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449671206,
             "language": "Rust",
             "last_commit": "2024-07-09T07:11:20Z",
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 363
+            "stars": 364
           }
         },
         {
@@ -228,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177664282,
             "language": "C++",
             "last_commit": "2023-09-18T20:03:13Z",
             "owner": "ericgjackson",
@@ -239,21 +244,6 @@
       "title": "Open-Source Solvers"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Commercial Solvers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Training Platforms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI Poker Bots"
-    },
-    {
       "description": "A growing number of projects attempt to use general-purpose LLMs for poker. None are competitive with CFR-based solvers, but they serve as research tools and benchmarks for LLM reasoning capabilities.",
       "items": [
         {
@@ -263,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 735580664,
             "language": "HTML",
             "last_commit": "2023-12-26T16:47:18Z",
             "owner": "HarperJonesGPT",
@@ -277,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 946602958,
             "language": "Python",
             "last_commit": "2026-01-19T01:48:27Z",
             "owner": "whmmy",
@@ -286,26 +278,12 @@
         }
       ],
       "title": "LLM Poker Projects"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Educational Resources"
-    },
-    {
-      "description": "Contributions welcome! Please submit a pull request or open an issue to suggest additions.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:45:43.071Z",
+    "last_updated": "2026-08-19T12:45:04.525Z",
     "original_repository": "PokerBotAI/awesome-poker-ai",
+    "original_repository_id": 1169928059,
     "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
     "enhanced_repository": "enhansome/enhansome-poker-ai",
     "enhanced_repository_description": null,
