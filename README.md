@@ -66,7 +66,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Frameworks
 
-* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,419 | 🐛 50 | 🌐 C++ | 📅 2026-08-12 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
+* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,423 | 🐛 50 | 🌐 C++ | 📅 2026-08-12 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
 
 * [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,541 | 🐛 80 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
 
@@ -92,7 +92,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Solvers
 
-* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,518 | 🐛 90 | 🌐 C++ | 📅 2026-08-19 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
+* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,519 | 🐛 90 | 🌐 C++ | 📅 2026-08-19 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
 
 * [ReBeL](https://github.com/facebookresearch/rebel) ⚠️ Archived — Meta's official open-source implementation of the ReBeL algorithm for imperfect-information games.
 
@@ -138,7 +138,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 A growing number of projects attempt to use general-purpose LLMs for poker. None are competitive with CFR-based solvers, but they serve as research tools and benchmarks for LLM reasoning capabilities.
 
-* [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) ⭐ 234 | 🐛 4 | 🌐 HTML | 📅 2023-12-26 — PokerStars screen-reading bot using GPT-4 API for decision-making via OCR + prompt engineering. Not fine-tuned — pure API calls. A hobby project, not competitive.
+* [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) ⭐ 235 | 🐛 4 | 🌐 HTML | 📅 2023-12-26 — PokerStars screen-reading bot using GPT-4 API for decision-making via OCR + prompt engineering. Not fine-tuned — pure API calls. A hobby project, not competitive.
 
 * [poker\_LLM](https://github.com/whmmy/poker_LLM) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-01-19 — AI-powered Texas Hold'em framework where LLMs (OpenAI, Claude, DeepSeek, QWen) act as players. Includes a Vue 3 replay visualization system and AI self-reflection on decisions. Python + Vue 3 (2024-2025).
 
@@ -200,4 +200,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
