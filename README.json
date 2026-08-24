@@ -4,6 +4,56 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ReBeL",
+              "description": "General self-play RL + search framework that converges to Nash equilibrium in two-player zero-sum games; achieves superhuman HUNL poker (Meta, 2020). Official code.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 278684830,
+                "language": "C++",
+                "last_commit": "2024-03-20T15:33:47Z",
+                "owner": "facebookresearch",
+                "repo": "rebel",
+                "stars": 701
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Landmark Papers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DecisionHoldem",
+              "description": "Open-source HUNL AI combining blueprint strategy and real-time safe depth-limited solving. GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446445224,
+                "language": "C++",
+                "last_commit": "2024-05-29T23:28:50Z",
+                "owner": "AI-Decision",
+                "repo": "DecisionHoldem",
+                "stars": 99
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Post-2020 Papers"
+        }
+      ],
+      "title": "Research Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "OpenSpiel",
           "description": "Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.",
@@ -30,7 +80,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3541
+            "stars": 3540
           }
         },
         {
@@ -192,7 +242,7 @@
             "last_commit": "2026-08-19T06:34:19Z",
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2526
+            "stars": 2527
           }
         },
         {
@@ -281,7 +331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:38:44.166Z",
+    "last_updated": "2026-08-24T14:41:41.585Z",
     "original_repository": "PokerBotAI/awesome-poker-ai",
     "original_repository_id": 1169928059,
     "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",

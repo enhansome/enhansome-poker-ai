@@ -23,21 +23,21 @@ Poker is one of the most challenging domains for AI due to imperfect information
 
 ### Landmark Papers
 
+* [ReBeL](https://arxiv.org/abs/2007.13544) — General self-play RL + search framework that converges to Nash equilibrium in two-player zero-sum games; achieves superhuman HUNL poker (Meta, 2020). [Official code](https://github.com/facebookresearch/rebel) ⚠️ Archived.
+
 * [DeepStack](https://arxiv.org/abs/1701.01724) — First AI to defeat professional poker players in heads-up no-limit Hold'em using recursive reasoning and deep learning (University of Alberta, 2017). Published in [Science](https://www.science.org/doi/10.1126/science.aam6960).
 
 * [Libratus](https://www.science.org/doi/10.1126/science.aao1733) — Defeated four top human pros in a 120,000-hand HUNL competition using blueprint strategy, real-time sub-game solving, and self-improvement (CMU, 2017).
 
 * [Pluribus](https://www.science.org/doi/10.1126/science.aay2400) — First superhuman AI for six-player no-limit Hold'em, trained in 8 days on a 64-core server using Linear CFR (Meta + CMU, 2019). [Author PDF](https://noambrown.github.io/papers/19-Science-Superhuman.pdf).
 
-* [ReBeL](https://arxiv.org/abs/2007.13544) — General self-play RL + search framework that converges to Nash equilibrium in two-player zero-sum games; achieves superhuman HUNL poker (Meta, 2020). [Official code](https://github.com/facebookresearch/rebel) ⚠️ Archived.
-
 ### Post-2020 Papers
+
+* [DecisionHoldem](https://arxiv.org/abs/2201.11580) — Open-source HUNL AI combining blueprint strategy and real-time safe depth-limited solving. [GitHub](https://github.com/AI-Decision/DecisionHoldem) ⭐ 99 | 🐛 12 | 🌐 C++ | 📅 2024-05-29.
 
 * [Student of Games](https://arxiv.org/abs/2112.03178) — Unified algorithm for both perfect and imperfect information games; achieves strong performance in chess, Go, and HUNL poker (DeepMind + Alberta, 2023). Published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.adg3256).
 
 * [AlphaHoldem](https://ojs.aaai.org/index.php/AAAI/article/view/20394) — End-to-end RL framework using a pseudo-siamese architecture; beats Slumbot and DeepStack after 3 days training on a single PC (Tsinghua, AAAI 2022).
-
-* [DecisionHoldem](https://arxiv.org/abs/2201.11580) — Open-source HUNL AI combining blueprint strategy and real-time safe depth-limited solving. [GitHub](https://github.com/AI-Decision/DecisionHoldem) ⭐ 99 | 🐛 12 | 🌐 C++ | 📅 2024-05-29.
 
 * [PokerGPT](https://arxiv.org/abs/2401.06781) — End-to-end lightweight solver for multi-player Texas Hold'em via fine-tuning a pre-trained LLM (OPT-1.3B) with RLHF on real game logs. Demonstrates that small language models can learn poker decision-making without expensive CFR computation (Huang et al., 2024).
 
@@ -66,9 +66,9 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Frameworks
 
-* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,431 | 🐛 49 | 🌐 C++ | 📅 2026-08-12 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
+* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,431 | 🐛 50 | 🌐 C++ | 📅 2026-08-12 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,541 | 🐛 80 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,540 | 🐛 80 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
 
 * [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) ⭐ 721 | 🐛 21 | 🌐 Python | 📅 2024-04-10 — Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.
 
@@ -92,7 +92,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Solvers
 
-* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,526 | 🐛 90 | 🌐 C++ | 📅 2026-08-19 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
+* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,527 | 🐛 90 | 🌐 C++ | 📅 2026-08-19 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
 
 * [ReBeL](https://github.com/facebookresearch/rebel) ⚠️ Archived — Meta's official open-source implementation of the ReBeL algorithm for imperfect-information games.
 
@@ -200,4 +200,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
