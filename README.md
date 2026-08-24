@@ -138,7 +138,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 A growing number of projects attempt to use general-purpose LLMs for poker. None are competitive with CFR-based solvers, but they serve as research tools and benchmarks for LLM reasoning capabilities.
 
-* [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) ⭐ 235 | 🐛 4 | 🌐 HTML | 📅 2023-12-26 — PokerStars screen-reading bot using GPT-4 API for decision-making via OCR + prompt engineering. Not fine-tuned — pure API calls. A hobby project, not competitive.
+* [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) ⭐ 236 | 🐛 4 | 🌐 HTML | 📅 2023-12-26 — PokerStars screen-reading bot using GPT-4 API for decision-making via OCR + prompt engineering. Not fine-tuned — pure API calls. A hobby project, not competitive.
 
 * [poker\_LLM](https://github.com/whmmy/poker_LLM) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-01-19 — AI-powered Texas Hold'em framework where LLMs (OpenAI, Claude, DeepSeek, QWen) act as players. Includes a Vue 3 replay visualization system and AI self-reflection on decisions. Python + Vue 3 (2024-2025).
 
