@@ -62,10 +62,10 @@
             "archived": false,
             "id": 198232685,
             "language": "C++",
-            "last_commit": "2026-08-12T21:12:55Z",
+            "last_commit": "2026-08-25T22:34:39Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5433
+            "stars": 5436
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2023-03-31T14:35:48Z",
             "owner": "EricSteinberger",
             "repo": "PokerRL",
-            "stars": 536
+            "stars": 537
           }
         },
         {
@@ -239,7 +239,7 @@
             "archived": false,
             "id": 237020873,
             "language": "C++",
-            "last_commit": "2026-08-19T06:34:19Z",
+            "last_commit": "2026-08-26T07:35:55Z",
             "owner": "bupticybee",
             "repo": "TexasSolver",
             "stars": 2529
@@ -331,7 +331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:51:39.366Z",
+    "last_updated": "2026-08-26T16:56:09.090Z",
     "original_repository": "PokerBotAI/awesome-poker-ai",
     "original_repository_id": 1169928059,
     "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
