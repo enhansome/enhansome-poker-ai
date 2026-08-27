@@ -39,7 +39,7 @@
                 "last_commit": "2024-05-29T23:28:50Z",
                 "owner": "AI-Decision",
                 "repo": "DecisionHoldem",
-                "stars": 99
+                "stars": 100
               }
             }
           ],
@@ -65,7 +65,7 @@
             "last_commit": "2026-08-25T22:34:39Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5436
+            "stars": 5437
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-08-10T21:48:31Z",
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 513
+            "stars": 514
           }
         },
         {
@@ -331,9 +331,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:56:09.090Z",
-    "original_repository": "PokerBotAI/awesome-poker-ai",
-    "original_repository_id": 1169928059,
+    "last_updated": "2026-08-27T11:57:12.783Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1169928059,
+      "language": null,
+      "last_commit": "2026-04-03T11:26:46Z",
+      "owner": "PokerBotAI",
+      "repo": "awesome-poker-ai",
+      "stars": 80
+    },
     "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
     "enhanced_repository": "enhansome/enhansome-poker-ai",
     "enhanced_repository_description": null,

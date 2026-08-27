@@ -33,7 +33,7 @@ Poker is one of the most challenging domains for AI due to imperfect information
 
 ### Post-2020 Papers
 
-* [DecisionHoldem](https://arxiv.org/abs/2201.11580) — Open-source HUNL AI combining blueprint strategy and real-time safe depth-limited solving. [GitHub](https://github.com/AI-Decision/DecisionHoldem) ⭐ 99 | 🐛 12 | 🌐 C++ | 📅 2024-05-29.
+* [DecisionHoldem](https://arxiv.org/abs/2201.11580) — Open-source HUNL AI combining blueprint strategy and real-time safe depth-limited solving. [GitHub](https://github.com/AI-Decision/DecisionHoldem) ⭐ 100 | 🐛 12 | 🌐 C++ | 📅 2024-05-29.
 
 * [Student of Games](https://arxiv.org/abs/2112.03178) — Unified algorithm for both perfect and imperfect information games; achieves strong performance in chess, Go, and HUNL poker (DeepMind + Alberta, 2023). Published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.adg3256).
 
@@ -66,7 +66,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Frameworks
 
-* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,436 | 🐛 42 | 🌐 C++ | 📅 2026-08-25 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
+* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,437 | 🐛 42 | 🌐 C++ | 📅 2026-08-25 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
 
 * [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,540 | 🐛 80 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
 
@@ -86,7 +86,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 * [deuces](https://github.com/worldveil/deuces) ⭐ 624 | 🐛 6 | 🌐 Python | 📅 2024-07-08 — Original pure-Python hand evaluation library, written for the MIT Pokerbots Competition.
 
-* [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) ⭐ 513 | 🐛 7 | 🌐 C | 📅 2026-08-10 — High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.
+* [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) ⭐ 514 | 🐛 7 | 🌐 C | 📅 2026-08-10 — High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.
 
 * [treys](https://github.com/ihendley/treys) ⭐ 179 | 🐛 13 | 🌐 Python | 📅 2023-07-15 — Python 3 hand evaluator using bit arithmetic and lookup tables; evaluates 5/6/7 card hands (\~250K evaluations/sec).
 
@@ -200,4 +200,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
