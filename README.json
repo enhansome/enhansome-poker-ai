@@ -18,7 +18,8 @@
                 "owner": "facebookresearch",
                 "repo": "rebel",
                 "stars": 701
-              }
+              },
+              "first_seen": "2026-08-29T00:32:41.054Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "AI-Decision",
                 "repo": "DecisionHoldem",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T00:32:41.054Z"
             }
           ],
           "description": null,
@@ -65,8 +67,9 @@
             "last_commit": "2026-08-25T22:34:39Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5440
-          }
+            "stars": 5441
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -81,7 +84,8 @@
             "owner": "datamllab",
             "repo": "rlcard",
             "stars": 3541
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -96,7 +100,8 @@
             "owner": "ishikota",
             "repo": "PyPokerEngine",
             "stars": 721
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -111,7 +116,8 @@
             "owner": "dickreuter",
             "repo": "neuron_poker",
             "stars": 721
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -125,8 +131,9 @@
             "last_commit": "2023-03-31T14:35:48Z",
             "owner": "EricSteinberger",
             "repo": "PokerRL",
-            "stars": 537
-          }
+            "stars": 538
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -141,7 +148,8 @@
             "owner": "uoftcprg",
             "repo": "pokerkit",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -155,8 +163,9 @@
             "last_commit": "2026-06-30T08:25:06Z",
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
-            "stars": 102
-          }
+            "stars": 103
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -171,7 +180,8 @@
             "owner": "fschlatt",
             "repo": "clubs",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         }
       ],
       "title": "Open-Source Frameworks"
@@ -192,7 +202,8 @@
             "owner": "worldveil",
             "repo": "deuces",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -207,7 +218,8 @@
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
             "stars": 514
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -222,7 +234,8 @@
             "owner": "ihendley",
             "repo": "treys",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         }
       ],
       "title": "Hand Evaluators"
@@ -242,8 +255,9 @@
             "last_commit": "2026-08-26T07:35:55Z",
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2530
-          }
+            "stars": 2529
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -258,7 +272,8 @@
             "owner": "facebookresearch",
             "repo": "rebel",
             "stars": 701
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -273,7 +288,8 @@
             "owner": "b-inary",
             "repo": "postflop-solver",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -288,7 +304,8 @@
             "owner": "ericgjackson",
             "repo": "slumbot2019",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         }
       ],
       "title": "Open-Source Solvers"
@@ -308,8 +325,9 @@
             "last_commit": "2023-12-26T16:47:18Z",
             "owner": "HarperJonesGPT",
             "repo": "PokerGPT",
-            "stars": 236
-          }
+            "stars": 237
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         },
         {
           "node_type": "item",
@@ -324,14 +342,15 @@
             "owner": "whmmy",
             "repo": "poker_LLM",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
         }
       ],
       "title": "LLM Poker Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:51:08.495Z",
+    "last_updated": "2026-08-29T00:32:41.054Z",
     "original_repository_info": {
       "archived": false,
       "id": 1169928059,
@@ -339,7 +358,7 @@
       "last_commit": "2026-04-03T11:26:46Z",
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 80
+      "stars": 81
     },
     "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
     "enhanced_repository": "enhansome/enhansome-poker-ai",
