@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An algorithm that generalizes the paradigm of self-play reinforcement learning and search to imperfect-information games.",
+                "homepage": null,
                 "id": 278684830,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-20T15:33:47Z",
+                "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "rebel",
-                "stars": 701
+                "stars": 701,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.054Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 446445224,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-05-29T23:28:50Z",
+                "open_issues": 12,
                 "owner": "AI-Decision",
                 "repo": "DecisionHoldem",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.054Z"
             }
@@ -62,12 +72,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.",
+            "homepage": null,
             "id": 198232685,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T22:34:39Z",
+            "open_issues": 43,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5441
+            "stars": 5441,
+            "topics": [
+              "cpp",
+              "games",
+              "multiagent",
+              "python",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -78,12 +99,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.",
+            "homepage": "http://www.rlcard.org",
             "id": 206562316,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-26T23:01:52Z",
+            "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3541
+            "stars": 3541,
+            "topics": [
+              "ai",
+              "blackjack",
+              "card-game",
+              "card-games",
+              "deep-reinforcement-learning",
+              "doudizhu",
+              "game",
+              "game-ai",
+              "game-bot",
+              "gym-environment",
+              "mahjong",
+              "multi-agent",
+              "openai-gym",
+              "poker",
+              "poker-game",
+              "reinforcement-learning",
+              "texas",
+              "uno"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -94,12 +139,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Poker engine for poker AI development in Python",
+            "homepage": "https://ishikota.github.io/PyPokerEngine/",
             "id": 60441516,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-10T13:40:46Z",
+            "open_issues": 21,
             "owner": "ishikota",
             "repo": "PyPokerEngine",
-            "stars": 721
+            "stars": 721,
+            "topics": [
+              "ai-poker-game",
+              "poker-engine",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -110,12 +164,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Texas holdem OpenAi gym poker environment with reinforcement learning based on keras-rl. Includes virtual rendering and montecarlo for equity calculation.",
+            "homepage": null,
             "id": 193956118,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-04T03:48:33Z",
+            "open_issues": 18,
             "owner": "dickreuter",
             "repo": "neuron_poker",
-            "stars": 721
+            "stars": 721,
+            "topics": [
+              "gym-environment",
+              "holdem",
+              "neural-network",
+              "openai-gym",
+              "poker",
+              "pokerbot",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -126,12 +193,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for Multi-Agent Deep Reinforcement Learning in Poker",
+            "homepage": null,
             "id": 169468115,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-31T14:35:48Z",
+            "open_issues": 8,
             "owner": "EricSteinberger",
             "repo": "PokerRL",
-            "stars": 538
+            "stars": 538,
+            "topics": [
+              "deep-learning",
+              "framework",
+              "gym-environment",
+              "poker",
+              "ray",
+              "reinforcement-learning",
+              "reinforcement-learning-algorithms",
+              "research"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -142,12 +223,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source Python library for poker game simulations, hand evaluations, and statistical analysis",
+            "homepage": "https://pokerkit.readthedocs.io/",
             "id": 338274995,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-22T07:14:36Z",
+            "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 489
+            "stars": 489,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "game",
+              "game-development",
+              "game-theory",
+              "holdem-poker",
+              "imperfect-information-game",
+              "libratus",
+              "pluribus",
+              "poker",
+              "poker-ai",
+              "poker-engine",
+              "poker-evaluator",
+              "poker-game",
+              "poker-hands",
+              "poker-library",
+              "poker-strategies",
+              "python",
+              "reinforcement-learning",
+              "texas-holdem"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -158,12 +265,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastering Poker with Deep CFR: Building an AI for 6-Player No-Limit Texas Hold’em",
+            "homepage": "https://medium.com/@davide_95694/mastering-poker-with-deep-cfr-building-an-ai-for-6-player-no-limit-texas-holdem-759d3ed8e600",
             "id": 939549761,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-30T08:25:06Z",
+            "open_issues": 2,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "counterfactual-regret-minimization",
+              "deepcfr",
+              "no-limit-texas-holdem",
+              "poker",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -174,12 +292,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "python poker engine for arbitrary community card poker games",
+            "homepage": null,
             "id": 248792358,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-06T07:49:07Z",
+            "open_issues": 1,
             "owner": "fschlatt",
             "repo": "clubs",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "blinds",
+              "clubs",
+              "community-cards",
+              "machine-learning",
+              "poker",
+              "poker-game",
+              "python",
+              "raise-sizes",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         }
@@ -196,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure Python poker hand evaluation library",
+            "homepage": null,
             "id": 12205283,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-08T22:57:19Z",
+            "open_issues": 6,
             "owner": "worldveil",
             "repo": "deuces",
-            "stars": 624
+            "stars": 624,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -212,12 +350,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation",
+            "homepage": null,
             "id": 53184524,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T21:48:31Z",
+            "open_issues": 7,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 514
+            "stars": 514,
+            "topics": [
+              "7-card-poker",
+              "cactus-kev",
+              "hacktoberfest",
+              "omaha-poker",
+              "omaha-poker-hand",
+              "ph-evaluator",
+              "plo4",
+              "plo5",
+              "plo6",
+              "poker",
+              "poker-evaluator",
+              "poker-hand-evaluator",
+              "poker-hands",
+              "texas-holdem",
+              "texas-holdem-poker"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -228,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure Python poker hand evaluation library",
+            "homepage": null,
             "id": 113833749,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-15T02:24:10Z",
+            "open_issues": 13,
             "owner": "ihendley",
             "repo": "treys",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         }
@@ -250,12 +414,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:",
+            "homepage": "https://bupticybee.github.io/texassolver_page",
             "id": 237020873,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T07:35:55Z",
+            "open_issues": 90,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2529
+            "stars": 2529,
+            "topics": [
+              "game-theory",
+              "game-theory-algorithms",
+              "gto",
+              "holdem-poker",
+              "piosolver",
+              "poker-ai",
+              "shortdeck",
+              "solver",
+              "texas-holdem",
+              "texas-holdem-poker"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -266,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An algorithm that generalizes the paradigm of self-play reinforcement learning and search to imperfect-information games.",
+            "homepage": null,
             "id": 278684830,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-20T15:33:47Z",
+            "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "rebel",
-            "stars": 701
+            "stars": 701,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -282,12 +467,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Development suspended] An efficient open-source postflop solver library written in Rust",
+            "homepage": null,
             "id": 449671206,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2024-07-09T07:11:20Z",
+            "open_issues": 11,
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 364
+            "stars": 364,
+            "topics": [
+              "counterfactual-regret-minimization",
+              "game-theory",
+              "gto",
+              "poker",
+              "rust",
+              "solver",
+              "texas-holdem",
+              "texas-holdem-poker"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -298,12 +497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementations of CFR for solving a variety of Holdem-like poker games",
+            "homepage": null,
             "id": 177664282,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-09-18T20:03:13Z",
+            "open_issues": 26,
             "owner": "ericgjackson",
             "repo": "slumbot2019",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         }
@@ -320,12 +524,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pokerstars bot that plays real-time poker using GPT4",
+            "homepage": null,
             "id": 735580664,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-12-26T16:47:18Z",
+            "open_issues": 4,
             "owner": "HarperJonesGPT",
             "repo": "PokerGPT",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "poker",
+              "pokerai",
+              "pokerbot",
+              "pokerscript",
+              "pokerstars",
+              "pokerstars-hand-history"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         },
@@ -336,12 +552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered Texas Hold'em Poker framework driven by Large Language Models",
+            "homepage": null,
             "id": 946602958,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-19T01:48:27Z",
+            "open_issues": 1,
             "owner": "whmmy",
             "repo": "poker_LLM",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
         }
@@ -350,15 +571,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:32:41.054Z",
+    "last_updated": "2026-08-29T04:59:44.456Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
+      "homepage": null,
       "id": 1169928059,
       "language": null,
+      "license": null,
       "last_commit": "2026-04-03T11:26:46Z",
+      "open_issues": 0,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 81
+      "stars": 81,
+      "topics": [
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "cfr",
+        "game-theory",
+        "gto",
+        "poker",
+        "poker-ai",
+        "poker-bot",
+        "reinforcement-learning"
+      ]
     },
     "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
     "enhanced_repository": "enhansome/enhansome-poker-ai",
