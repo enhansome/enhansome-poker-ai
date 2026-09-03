@@ -78,10 +78,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T20:35:43Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5452,
+            "stars": 5456,
             "topics": [
               "cpp",
               "games",
@@ -134,6 +134,31 @@
         },
         {
           "node_type": "item",
+          "title": "PyPokerEngine",
+          "description": "Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Poker engine for poker AI development in Python",
+            "homepage": "https://ishikota.github.io/PyPokerEngine/",
+            "id": 60441516,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-04-10T13:40:46Z",
+            "open_issues": 21,
+            "owner": "ishikota",
+            "repo": "PyPokerEngine",
+            "stars": 722,
+            "topics": [
+              "ai-poker-game",
+              "poker-engine",
+              "reinforcement-learning"
+            ]
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
+        },
+        {
+          "node_type": "item",
           "title": "neuron_poker",
           "description": "Texas Hold'em OpenAI Gym environment with Keras-RL and a C++ equity module (~500x faster than Python).",
           "children": [],
@@ -156,31 +181,6 @@
               "openai-gym",
               "poker",
               "pokerbot",
-              "reinforcement-learning"
-            ]
-          },
-          "first_seen": "2026-08-29T00:32:41.054Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PyPokerEngine",
-          "description": "Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Poker engine for poker AI development in Python",
-            "homepage": "https://ishikota.github.io/PyPokerEngine/",
-            "id": 60441516,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-04-10T13:40:46Z",
-            "open_issues": 21,
-            "owner": "ishikota",
-            "repo": "PyPokerEngine",
-            "stars": 721,
-            "topics": [
-              "ai-poker-game",
-              "poker-engine",
               "reinforcement-learning"
             ]
           },
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -423,7 +423,7 @@
             "open_issues": 89,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2532,
+            "stars": 2533,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:21:56.608Z",
+    "last_updated": "2026-09-03T19:16:32.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
