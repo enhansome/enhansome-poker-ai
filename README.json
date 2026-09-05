@@ -81,7 +81,7 @@
             "open_issues": 52,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5458,
+            "stars": 5460,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3541,
+            "stars": 3542,
             "topics": [
               "ai",
               "blackjack",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:58:09.460Z",
+    "last_updated": "2026-09-05T18:12:45.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",

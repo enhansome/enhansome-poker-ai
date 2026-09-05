@@ -66,9 +66,9 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Frameworks
 
-* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,458 | 🐛 52 | 🌐 C++ | 📅 2026-08-31 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
+* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,460 | 🐛 52 | 🌐 C++ | 📅 2026-08-31 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,541 | 🐛 80 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,542 | 🐛 80 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
 
 * [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) ⭐ 722 | 🐛 21 | 🌐 Python | 📅 2024-04-10 — Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.
 
@@ -200,4 +200,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
