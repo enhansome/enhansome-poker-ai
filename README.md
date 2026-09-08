@@ -33,7 +33,7 @@ Poker is one of the most challenging domains for AI due to imperfect information
 
 ### Post-2020 Papers
 
-* [DecisionHoldem](https://arxiv.org/abs/2201.11580) — Open-source HUNL AI combining blueprint strategy and real-time safe depth-limited solving. [GitHub](https://github.com/AI-Decision/DecisionHoldem) ⭐ 100 | 🐛 12 | 🌐 C++ | 📅 2024-05-29.
+* [DecisionHoldem](https://arxiv.org/abs/2201.11580) — Open-source HUNL AI combining blueprint strategy and real-time safe depth-limited solving. [GitHub](https://github.com/AI-Decision/DecisionHoldem) ⭐ 99 | 🐛 12 | 🌐 C++ | 📅 2024-05-29.
 
 * [Student of Games](https://arxiv.org/abs/2112.03178) — Unified algorithm for both perfect and imperfect information games; achieves strong performance in chess, Go, and HUNL poker (DeepMind + Alberta, 2023). Published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.adg3256).
 
@@ -66,11 +66,11 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Frameworks
 
-* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,466 | 🐛 53 | 🌐 C++ | 📅 2026-08-31 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
+* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,469 | 🐛 53 | 🌐 C++ | 📅 2026-08-31 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
 
 * [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,545 | 🐛 80 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
 
-* [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) ⭐ 722 | 🐛 21 | 🌐 Python | 📅 2024-04-10 — Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.
+* [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) ⭐ 723 | 🐛 21 | 🌐 Python | 📅 2024-04-10 — Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.
 
 * [neuron\_poker](https://github.com/dickreuter/neuron_poker) ⭐ 722 | 🐛 18 | 🌐 Python | 📅 2025-08-04 — Texas Hold'em OpenAI Gym environment with Keras-RL and a C++ equity module (\~500x faster than Python).
 
@@ -78,7 +78,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 * [PokerKit](https://github.com/uoftcprg/pokerkit) ⭐ 493 | 🐛 0 | 🌐 Python | 📅 2026-08-22 — Comprehensive Python library supporting Texas Hold'em, Omaha, Stud, Razz, and custom game variants (University of Toronto). [Paper](https://arxiv.org/abs/2308.07327).
 
-* [deepcfr-texas-no-limit-holdem-6-players](https://github.com/dberweger2017/deepcfr-texas-no-limit-holdem-6-players) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2026-06-30 — Deep CFR implementation for 6-player NLHE with progressive training phases (random opponents → self-play → mixed pools), GRU-based opponent modeling, and a PyQt5 GUI. 80+ stars (2024-2025).
+* [deepcfr-texas-no-limit-holdem-6-players](https://github.com/dberweger2017/deepcfr-texas-no-limit-holdem-6-players) ⭐ 107 | 🐛 2 | 🌐 Python | 📅 2026-06-30 — Deep CFR implementation for 6-player NLHE with progressive training phases (random opponents → self-play → mixed pools), GRU-based opponent modeling, and a PyQt5 GUI. 80+ stars (2024-2025).
 
 * [clubs](https://github.com/fschlatt/clubs) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2024-02-06 — Python poker engine with OpenAI Gym interface; supports arbitrary community card game configurations (\~714K hand evaluations/sec).
 
@@ -92,7 +92,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Solvers
 
-* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,539 | 🐛 89 | 🌐 C++ | 📅 2026-08-26 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
+* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,540 | 🐛 89 | 🌐 C++ | 📅 2026-08-26 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
 
 * [ReBeL](https://github.com/facebookresearch/rebel) ⚠️ Archived — Meta's official open-source implementation of the ReBeL algorithm for imperfect-information games.
 
@@ -138,7 +138,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 A growing number of projects attempt to use general-purpose LLMs for poker. None are competitive with CFR-based solvers, but they serve as research tools and benchmarks for LLM reasoning capabilities.
 
-* [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) ⭐ 238 | 🐛 4 | 🌐 HTML | 📅 2023-12-26 — PokerStars screen-reading bot using GPT-4 API for decision-making via OCR + prompt engineering. Not fine-tuned — pure API calls. A hobby project, not competitive.
+* [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) ⭐ 239 | 🐛 4 | 🌐 HTML | 📅 2023-12-26 — PokerStars screen-reading bot using GPT-4 API for decision-making via OCR + prompt engineering. Not fine-tuned — pure API calls. A hobby project, not competitive.
 
 * [poker\_LLM](https://github.com/whmmy/poker_LLM) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-01-19 — AI-powered Texas Hold'em framework where LLMs (OpenAI, Claude, DeepSeek, QWen) act as players. Includes a Vue 3 replay visualization system and AI self-reflection on decisions. Python + Vue 3 (2024-2025).
 
@@ -200,4 +200,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
