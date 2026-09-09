@@ -274,7 +274,7 @@
             "open_issues": 2,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "counterfactual-regret-minimization",
               "deepcfr",
@@ -359,7 +359,7 @@
             "open_issues": 7,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 514,
+            "stars": 515,
             "topics": [
               "7-card-poker",
               "cactus-kev",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:24:32.275Z",
+    "last_updated": "2026-09-09T19:14:42.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",

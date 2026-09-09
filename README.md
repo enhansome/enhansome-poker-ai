@@ -78,7 +78,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 * [PokerKit](https://github.com/uoftcprg/pokerkit) ⭐ 493 | 🐛 0 | 🌐 Python | 📅 2026-08-22 — Comprehensive Python library supporting Texas Hold'em, Omaha, Stud, Razz, and custom game variants (University of Toronto). [Paper](https://arxiv.org/abs/2308.07327).
 
-* [deepcfr-texas-no-limit-holdem-6-players](https://github.com/dberweger2017/deepcfr-texas-no-limit-holdem-6-players) ⭐ 107 | 🐛 2 | 🌐 Python | 📅 2026-06-30 — Deep CFR implementation for 6-player NLHE with progressive training phases (random opponents → self-play → mixed pools), GRU-based opponent modeling, and a PyQt5 GUI. 80+ stars (2024-2025).
+* [deepcfr-texas-no-limit-holdem-6-players](https://github.com/dberweger2017/deepcfr-texas-no-limit-holdem-6-players) ⭐ 108 | 🐛 2 | 🌐 Python | 📅 2026-06-30 — Deep CFR implementation for 6-player NLHE with progressive training phases (random opponents → self-play → mixed pools), GRU-based opponent modeling, and a PyQt5 GUI. 80+ stars (2024-2025).
 
 * [clubs](https://github.com/fschlatt/clubs) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2024-02-06 — Python poker engine with OpenAI Gym interface; supports arbitrary community card game configurations (\~714K hand evaluations/sec).
 
@@ -86,7 +86,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 * [deuces](https://github.com/worldveil/deuces) ⭐ 624 | 🐛 6 | 🌐 Python | 📅 2024-07-08 — Original pure-Python hand evaluation library, written for the MIT Pokerbots Competition.
 
-* [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) ⭐ 514 | 🐛 7 | 🌐 C | 📅 2026-08-10 — High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.
+* [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) ⭐ 515 | 🐛 7 | 🌐 C | 📅 2026-08-10 — High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.
 
 * [treys](https://github.com/ihendley/treys) ⭐ 179 | 🐛 13 | 🌐 Python | 📅 2023-07-15 — Python 3 hand evaluator using bit arithmetic and lookup tables; evaluates 5/6/7 card hands (\~250K evaluations/sec).
 
@@ -200,4 +200,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
