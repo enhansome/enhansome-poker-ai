@@ -81,7 +81,7 @@
             "open_issues": 52,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5473,
+            "stars": 5476,
             "topics": [
               "cpp",
               "games",
@@ -229,10 +229,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-22T07:14:36Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -274,7 +274,7 @@
             "open_issues": 2,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "counterfactual-regret-minimization",
               "deepcfr",
@@ -423,7 +423,7 @@
             "open_issues": 89,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2542,
+            "stars": 2543,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:06:01.328Z",
+    "last_updated": "2026-09-11T19:08:03.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
