@@ -78,7 +78,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T20:35:43Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "google-deepmind",
             "repo": "open_spiel",
             "stars": 5476,
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3546,
+            "stars": 3547,
             "topics": [
               "ai",
               "blackjack",
@@ -232,7 +232,7 @@
             "open_issues": 2,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -338,7 +338,7 @@
             "open_issues": 6,
             "owner": "worldveil",
             "repo": "deuces",
-            "stars": 624,
+            "stars": 623,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -359,7 +359,7 @@
             "open_issues": 7,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 515,
+            "stars": 516,
             "topics": [
               "7-card-poker",
               "cactus-kev",
@@ -423,7 +423,7 @@
             "open_issues": 89,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2543,
+            "stars": 2546,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -476,7 +476,7 @@
             "open_issues": 11,
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 367,
+            "stars": 369,
             "topics": [
               "counterfactual-regret-minimization",
               "game-theory",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:08:03.343Z",
+    "last_updated": "2026-09-12T18:19:26.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
