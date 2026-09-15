@@ -78,10 +78,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T20:35:43Z",
-            "open_issues": 55,
+            "open_issues": 57,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5484,
+            "stars": 5486,
             "topics": [
               "cpp",
               "games",
@@ -232,7 +232,7 @@
             "open_issues": 2,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-06-30T08:25:06Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-15T19:33:08Z",
+            "open_issues": 1,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
             "stars": 109,
@@ -355,8 +355,8 @@
             "id": 53184524,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T16:53:45Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-14T23:06:20Z",
+            "open_issues": 7,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
             "stars": 516,
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:17:10.715Z",
+    "last_updated": "2026-09-15T19:40:18.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
