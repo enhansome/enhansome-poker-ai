@@ -78,10 +78,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T20:35:43Z",
-            "open_issues": 58,
+            "open_issues": 60,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5491,
+            "stars": 5490,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3549,
+            "stars": 3550,
             "topics": [
               "ai",
               "blackjack",
@@ -202,7 +202,7 @@
             "open_issues": 8,
             "owner": "EricSteinberger",
             "repo": "PokerRL",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "deep-learning",
               "framework",
@@ -228,8 +228,8 @@
             "id": 338274995,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T13:20:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-17T22:20:32Z",
+            "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
             "stars": 498,
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T17:05:01Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-18T18:19:16Z",
+            "open_issues": 3,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
             "stars": 109,
@@ -423,7 +423,7 @@
             "open_issues": 89,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2551,
+            "stars": 2552,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -533,7 +533,7 @@
             "open_issues": 4,
             "owner": "HarperJonesGPT",
             "repo": "PokerGPT",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "poker",
               "pokerai",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:42:06.373Z",
+    "last_updated": "2026-09-18T19:00:29.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -583,7 +583,7 @@
       "open_issues": 0,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 80,
+      "stars": 71,
       "topics": [
         "artificial-intelligence",
         "awesome",
