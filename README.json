@@ -78,10 +78,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T20:35:43Z",
-            "open_issues": 60,
+            "open_issues": 63,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5496,
+            "stars": 5498,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3552,
+            "stars": 3553,
             "topics": [
               "ai",
               "blackjack",
@@ -173,7 +173,7 @@
             "open_issues": 18,
             "owner": "dickreuter",
             "repo": "neuron_poker",
-            "stars": 723,
+            "stars": 722,
             "topics": [
               "gym-environment",
               "holdem",
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 497,
+            "stars": 498,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -423,7 +423,7 @@
             "open_issues": 89,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2555,
+            "stars": 2559,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -533,7 +533,7 @@
             "open_issues": 4,
             "owner": "HarperJonesGPT",
             "repo": "PokerGPT",
-            "stars": 239,
+            "stars": 238,
             "topics": [
               "poker",
               "pokerai",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:24:07.102Z",
+    "last_updated": "2026-09-22T19:43:04.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
