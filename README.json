@@ -81,7 +81,7 @@
             "open_issues": 65,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5505,
+            "stars": 5506,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3555,
+            "stars": 3558,
             "topics": [
               "ai",
               "blackjack",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-27T18:47:57Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-28T21:37:17Z",
+            "open_issues": 11,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
             "stars": 109,
@@ -338,7 +338,7 @@
             "open_issues": 6,
             "owner": "worldveil",
             "repo": "deuces",
-            "stars": 623,
+            "stars": 624,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:44:24.509Z",
+    "last_updated": "2026-09-28T21:54:40.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
