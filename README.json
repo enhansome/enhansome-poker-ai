@@ -81,7 +81,7 @@
             "open_issues": 65,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5506,
+            "stars": 5507,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3558,
+            "stars": 3559,
             "topics": [
               "ai",
               "blackjack",
@@ -128,35 +128,6 @@
               "reinforcement-learning",
               "texas",
               "uno"
-            ]
-          },
-          "first_seen": "2026-08-29T00:32:41.054Z"
-        },
-        {
-          "node_type": "item",
-          "title": "neuron_poker",
-          "description": "Texas Hold'em OpenAI Gym environment with Keras-RL and a C++ equity module (~500x faster than Python).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Texas holdem OpenAi gym poker environment with reinforcement learning based on keras-rl. Includes virtual rendering and montecarlo for equity calculation.",
-            "homepage": null,
-            "id": 193956118,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-08-04T03:48:33Z",
-            "open_issues": 18,
-            "owner": "dickreuter",
-            "repo": "neuron_poker",
-            "stars": 724,
-            "topics": [
-              "gym-environment",
-              "holdem",
-              "neural-network",
-              "openai-gym",
-              "poker",
-              "pokerbot",
-              "reinforcement-learning"
             ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -188,6 +159,35 @@
         },
         {
           "node_type": "item",
+          "title": "neuron_poker",
+          "description": "Texas Hold'em OpenAI Gym environment with Keras-RL and a C++ equity module (~500x faster than Python).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Texas holdem OpenAi gym poker environment with reinforcement learning based on keras-rl. Includes virtual rendering and montecarlo for equity calculation.",
+            "homepage": null,
+            "id": 193956118,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-08-04T03:48:33Z",
+            "open_issues": 18,
+            "owner": "dickreuter",
+            "repo": "neuron_poker",
+            "stars": 723,
+            "topics": [
+              "gym-environment",
+              "holdem",
+              "neural-network",
+              "openai-gym",
+              "poker",
+              "pokerbot",
+              "reinforcement-learning"
+            ]
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
+        },
+        {
+          "node_type": "item",
           "title": "PokerRL",
           "description": "Multi-agent deep RL framework implementing NFSP, Deep CFR, Single Deep CFR, and RPG; supports distributed computing via Ray.",
           "children": [],
@@ -202,7 +202,7 @@
             "open_issues": 8,
             "owner": "EricSteinberger",
             "repo": "PokerRL",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "deep-learning",
               "framework",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T21:37:17Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-29T18:53:48Z",
+            "open_issues": 2,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
             "stars": 109,
@@ -338,7 +338,7 @@
             "open_issues": 6,
             "owner": "worldveil",
             "repo": "deuces",
-            "stars": 624,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -359,7 +359,7 @@
             "open_issues": 7,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 518,
+            "stars": 520,
             "topics": [
               "7-card-poker",
               "cactus-kev",
@@ -420,7 +420,7 @@
             "language": "C++",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-26T07:35:55Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "bupticybee",
             "repo": "TexasSolver",
             "stars": 2568,
@@ -473,7 +473,7 @@
             "language": "Rust",
             "license": "AGPL-3.0",
             "last_commit": "2024-07-09T07:11:20Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "b-inary",
             "repo": "postflop-solver",
             "stars": 371,
@@ -533,7 +533,7 @@
             "open_issues": 4,
             "owner": "HarperJonesGPT",
             "repo": "PokerGPT",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "poker",
               "pokerai",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:54:40.240Z",
+    "last_updated": "2026-09-29T20:42:33.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -583,7 +583,7 @@
       "open_issues": 0,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 71,
+      "stars": 72,
       "topics": [
         "artificial-intelligence",
         "awesome",
