@@ -78,10 +78,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T20:35:43Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5507,
+            "stars": 5510,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3559,
+            "stars": 3560,
             "topics": [
               "ai",
               "blackjack",
@@ -148,7 +148,7 @@
             "open_issues": 21,
             "owner": "ishikota",
             "repo": "PyPokerEngine",
-            "stars": 723,
+            "stars": 724,
             "topics": [
               "ai-poker-game",
               "poker-engine",
@@ -173,7 +173,7 @@
             "open_issues": 18,
             "owner": "dickreuter",
             "repo": "neuron_poker",
-            "stars": 723,
+            "stars": 724,
             "topics": [
               "gym-environment",
               "holdem",
@@ -202,7 +202,7 @@
             "open_issues": 8,
             "owner": "EricSteinberger",
             "repo": "PokerRL",
-            "stars": 544,
+            "stars": 545,
             "topics": [
               "deep-learning",
               "framework",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T18:53:48Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-30T20:41:22Z",
+            "open_issues": 4,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
             "stars": 109,
@@ -338,7 +338,7 @@
             "open_issues": 6,
             "owner": "worldveil",
             "repo": "deuces",
-            "stars": 625,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -359,7 +359,7 @@
             "open_issues": 7,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "7-card-poker",
               "cactus-kev",
@@ -476,7 +476,7 @@
             "open_issues": 10,
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "counterfactual-regret-minimization",
               "game-theory",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:42:33.782Z",
+    "last_updated": "2026-09-30T20:46:08.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
