@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3568,
+            "stars": 3570,
             "topics": [
               "ai",
               "blackjack",
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T16:11:38Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-04T18:45:20Z",
+            "open_issues": 3,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
             "stars": 109,
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:11:07.139Z",
+    "last_updated": "2026-10-04T19:33:39.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -583,7 +583,7 @@
       "open_issues": 0,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 72,
+      "stars": 71,
       "topics": [
         "artificial-intelligence",
         "awesome",
