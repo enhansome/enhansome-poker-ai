@@ -49,7 +49,7 @@
                 "open_issues": 11,
                 "owner": "AI-Decision",
                 "repo": "DecisionHoldem",
-                "stars": 99,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.054Z"
@@ -81,7 +81,7 @@
             "open_issues": 77,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5519,
+            "stars": 5520,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3572,
+            "stars": 3573,
             "topics": [
               "ai",
               "blackjack",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T20:58:36Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-08T21:08:34Z",
+            "open_issues": 3,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
             "stars": 109,
@@ -419,11 +419,11 @@
             "id": 237020873,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-26T07:35:55Z",
+            "last_commit": "2026-10-08T08:06:56Z",
             "open_issues": 91,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2573,
+            "stars": 2576,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:15:03.237Z",
+    "last_updated": "2026-10-08T21:16:14.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -579,7 +579,7 @@
       "id": 1169928059,
       "language": null,
       "license": null,
-      "last_commit": "2026-04-03T11:26:46Z",
+      "last_commit": "2026-10-08T10:22:49Z",
       "open_issues": 0,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
@@ -597,7 +597,7 @@
         "reinforcement-learning"
       ]
     },
-    "original_repository_sha": "bdfcc4a64a45f233d411d1ddf4c66f9a294e1576",
+    "original_repository_sha": "383f090748236598146c486fdd58f93628dd4d8f",
     "enhanced_repository": "enhansome/enhansome-poker-ai",
     "enhanced_repository_description": null,
     "title": "Awesome Poker AI with stars"
