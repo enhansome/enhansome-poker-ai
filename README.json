@@ -78,10 +78,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T20:35:43Z",
-            "open_issues": 77,
+            "open_issues": 79,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5520,
+            "stars": 5522,
             "topics": [
               "cpp",
               "games",
@@ -148,7 +148,7 @@
             "open_issues": 18,
             "owner": "dickreuter",
             "repo": "neuron_poker",
-            "stars": 726,
+            "stars": 728,
             "topics": [
               "gym-environment",
               "holdem",
@@ -270,11 +270,11 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T21:08:34Z",
+            "last_commit": "2026-10-09T20:48:34Z",
             "open_issues": 3,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "counterfactual-regret-minimization",
               "deepcfr",
@@ -359,7 +359,7 @@
             "open_issues": 7,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "7-card-poker",
               "cactus-kev",
@@ -423,7 +423,7 @@
             "open_issues": 91,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2576,
+            "stars": 2578,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -533,7 +533,7 @@
             "open_issues": 4,
             "owner": "HarperJonesGPT",
             "repo": "PokerGPT",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "poker",
               "pokerai",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:16:14.424Z",
+    "last_updated": "2026-10-09T20:49:53.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -583,7 +583,7 @@
       "open_issues": 0,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 71,
+      "stars": 72,
       "topics": [
         "artificial-intelligence",
         "awesome",
