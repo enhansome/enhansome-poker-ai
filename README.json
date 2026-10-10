@@ -81,7 +81,7 @@
             "open_issues": 79,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5522,
+            "stars": 5524,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3573,
+            "stars": 3574,
             "topics": [
               "ai",
               "blackjack",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T20:48:34Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-10T19:46:10Z",
+            "open_issues": 4,
             "owner": "dberweger2017",
             "repo": "deepcfr-texas-no-limit-holdem-6-players",
             "stars": 110,
@@ -338,7 +338,7 @@
             "open_issues": 6,
             "owner": "worldveil",
             "repo": "deuces",
-            "stars": 626,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -396,7 +396,7 @@
             "open_issues": 13,
             "owner": "ihendley",
             "repo": "treys",
-            "stars": 180,
+            "stars": 181,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -423,7 +423,7 @@
             "open_issues": 91,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2578,
+            "stars": 2577,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -476,7 +476,7 @@
             "open_issues": 10,
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "counterfactual-regret-minimization",
               "game-theory",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:49:53.461Z",
+    "last_updated": "2026-10-10T20:01:19.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
