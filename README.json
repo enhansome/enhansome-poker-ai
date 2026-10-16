@@ -81,7 +81,7 @@
             "open_issues": 83,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5537,
+            "stars": 5538,
             "topics": [
               "cpp",
               "games",
@@ -229,10 +229,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-12T21:33:47Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 504,
+            "stars": 506,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -265,16 +265,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Mastering Poker with Deep CFR: Building an AI for 6-Player No-Limit Texas Hold’em",
-            "homepage": "https://medium.com/@davide_95694/mastering-poker-with-deep-cfr-building-an-ai-for-6-player-no-limit-texas-holdem-759d3ed8e600",
+            "description": "Mastering Poker with CFR variants: Building an AI for 6-Player No-Limit Texas Hold’em",
+            "homepage": null,
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-15T19:39:59Z",
+            "last_commit": "2026-10-16T19:23:06Z",
             "open_issues": 4,
             "owner": "dberweger2017",
             "repo": "CFR-NLHE-6max",
-            "stars": 123,
+            "stars": 131,
             "topics": [
               "counterfactual-regret-minimization",
               "deepcfr",
@@ -423,7 +423,7 @@
             "open_issues": 92,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:51:05.876Z",
+    "last_updated": "2026-10-16T19:31:40.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
