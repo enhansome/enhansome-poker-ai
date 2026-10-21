@@ -78,10 +78,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T04:37:29Z",
-            "open_issues": 86,
+            "open_issues": 70,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5545,
+            "stars": 5548,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3580,
+            "stars": 3581,
             "topics": [
               "ai",
               "blackjack",
@@ -270,11 +270,11 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-20T19:40:11Z",
+            "last_commit": "2026-10-21T19:36:49Z",
             "open_issues": 10,
             "owner": "dberweger2017",
             "repo": "CFR-NLHE-6max",
-            "stars": 145,
+            "stars": 144,
             "topics": [
               "counterfactual-regret-minimization",
               "deepcfr",
@@ -423,7 +423,7 @@
             "open_issues": 92,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -476,7 +476,7 @@
             "open_issues": 10,
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 374,
+            "stars": 376,
             "topics": [
               "counterfactual-regret-minimization",
               "game-theory",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:58:33.056Z",
+    "last_updated": "2026-10-21T20:05:29.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
