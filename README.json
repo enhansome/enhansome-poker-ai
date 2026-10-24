@@ -77,11 +77,11 @@
             "id": 198232685,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T19:11:47Z",
-            "open_issues": 71,
+            "last_commit": "2026-10-24T03:21:18Z",
+            "open_issues": 72,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5552,
+            "stars": 5555,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3580,
+            "stars": 3581,
             "topics": [
               "ai",
               "blackjack",
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T18:50:40Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-24T17:07:29Z",
+            "open_issues": 8,
             "owner": "dberweger2017",
             "repo": "CFR-NLHE-6max",
             "stars": 144,
@@ -423,7 +423,7 @@
             "open_issues": 92,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2592,
+            "stars": 2596,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:56:00.076Z",
+    "last_updated": "2026-10-24T18:45:20.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
