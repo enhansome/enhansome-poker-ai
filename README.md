@@ -66,19 +66,19 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Frameworks
 
-* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,557 | 🐛 73 | 🌐 C++ | 📅 2026-10-25 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
+* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,558 | 🐛 77 | 🌐 Python | 📅 2026-10-26 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
 
 * [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,582 | 🐛 80 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
 
-* [neuron\_poker](https://github.com/dickreuter/neuron_poker) ⭐ 728 | 🐛 18 | 🌐 Python | 📅 2025-08-04 — Texas Hold'em OpenAI Gym environment with Keras-RL and a C++ equity module (\~500x faster than Python).
+* [neuron\_poker](https://github.com/dickreuter/neuron_poker) ⭐ 729 | 🐛 18 | 🌐 Python | 📅 2025-08-04 — Texas Hold'em OpenAI Gym environment with Keras-RL and a C++ equity module (\~500x faster than Python).
 
 * [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) ⭐ 725 | 🐛 21 | 🌐 Python | 📅 2024-04-10 — Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.
 
 * [PokerRL](https://github.com/EricSteinberger/PokerRL) ⭐ 546 | 🐛 8 | 🌐 Python | 📅 2023-03-31 — Multi-agent deep RL framework implementing NFSP, Deep CFR, Single Deep CFR, and RPG; supports distributed computing via Ray.
 
-* [PokerKit](https://github.com/uoftcprg/pokerkit) ⭐ 510 | 🐛 0 | 🌐 Python | 📅 2026-10-12 — Comprehensive Python library supporting Texas Hold'em, Omaha, Stud, Razz, and custom game variants (University of Toronto). [Paper](https://arxiv.org/abs/2308.07327).
+* [PokerKit](https://github.com/uoftcprg/pokerkit) ⭐ 511 | 🐛 0 | 🌐 Python | 📅 2026-10-12 — Comprehensive Python library supporting Texas Hold'em, Omaha, Stud, Razz, and custom game variants (University of Toronto). [Paper](https://arxiv.org/abs/2308.07327).
 
-* [deepcfr-texas-no-limit-holdem-6-players](https://github.com/dberweger2017/deepcfr-texas-no-limit-holdem-6-players) ⭐ 144 | 🐛 9 | 🌐 Python | 📅 2026-10-25 — Deep CFR implementation for 6-player NLHE with progressive training phases (random opponents → self-play → mixed pools), GRU-based opponent modeling, and a PyQt5 GUI. 80+ stars (2024-2025).
+* [deepcfr-texas-no-limit-holdem-6-players](https://github.com/dberweger2017/deepcfr-texas-no-limit-holdem-6-players) ⭐ 144 | 🐛 7 | 🌐 Python | 📅 2026-10-26 — Deep CFR implementation for 6-player NLHE with progressive training phases (random opponents → self-play → mixed pools), GRU-based opponent modeling, and a PyQt5 GUI. 80+ stars (2024-2025).
 
 * [clubs](https://github.com/fschlatt/clubs) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2024-02-06 — Python poker engine with OpenAI Gym interface; supports arbitrary community card game configurations (\~714K hand evaluations/sec).
 
@@ -86,13 +86,13 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 * [deuces](https://github.com/worldveil/deuces) ⭐ 625 | 🐛 5 | 🌐 Python | 📅 2024-07-08 — Original pure-Python hand evaluation library, written for the MIT Pokerbots Competition.
 
-* [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) ⭐ 523 | 🐛 8 | 🌐 C | 📅 2026-10-13 — High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.
+* [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) ⭐ 524 | 🐛 8 | 🌐 C | 📅 2026-10-26 — High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.
 
 * [treys](https://github.com/ihendley/treys) ⭐ 181 | 🐛 13 | 🌐 Python | 📅 2023-07-15 — Python 3 hand evaluator using bit arithmetic and lookup tables; evaluates 5/6/7 card hands (\~250K evaluations/sec).
 
 ## Open-Source Solvers
 
-* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,596 | 🐛 92 | 🌐 C++ | 📅 2026-10-08 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
+* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,598 | 🐛 92 | 🌐 C++ | 📅 2026-10-08 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
 
 * [ReBeL](https://github.com/facebookresearch/rebel) ⚠️ Archived — Meta's official open-source implementation of the ReBeL algorithm for imperfect-information games.
 
@@ -145,6 +145,8 @@ A growing number of projects attempt to use general-purpose LLMs for poker. None
 * [poker\_LLM](https://github.com/whmmy/poker_LLM) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2026-01-19 — AI-powered Texas Hold'em framework where LLMs (OpenAI, Claude, DeepSeek, QWen) act as players. Includes a Vue 3 replay visualization system and AI self-reflection on decisions. Python + Vue 3 (2024-2025).
 
 ## Benchmarks & Evaluation
+
+* [aipoker.bot](https://aipoker.bot/) — Free site where people play no-limit hold'em against LLMs (GPT, Claude, Gemini, Grok, DeepSeek, Qwen, GLM and open-weight models) plus Slumbot and classic rule-based bots. Every model move is logged with its one-line reason, and [public stats](https://aipoker.bot/stats) count mistakes per model from games against people: illegal actions, hands the model claimed but didn't have, folds of the best hand.
 
 * [poker-eval](https://github.com/superagent-ai/poker-eval) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-27 — TypeScript framework for evaluating AI agent performance in simulated NLHE cash games. Uses standard poker KPIs (BB/100, EV, VPIP). Supports Vercel AI SDK, OpenAI, Mastra, LlamaIndex, and Langchain. Includes a [leaderboard](https://github.com/superagent-ai/poker-eval) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-27 of LLM performance (2024).
 
@@ -204,4 +206,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

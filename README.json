@@ -75,13 +75,13 @@
             "description": "OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.",
             "homepage": null,
             "id": 198232685,
-            "language": "C++",
+            "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T00:51:04Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-26T19:28:35Z",
+            "open_issues": 77,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5557,
+            "stars": 5558,
             "topics": [
               "cpp",
               "games",
@@ -148,7 +148,7 @@
             "open_issues": 18,
             "owner": "dickreuter",
             "repo": "neuron_poker",
-            "stars": 728,
+            "stars": 729,
             "topics": [
               "gym-environment",
               "holdem",
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 510,
+            "stars": 511,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T18:25:26Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-26T20:38:14Z",
+            "open_issues": 7,
             "owner": "dberweger2017",
             "repo": "CFR-NLHE-6max",
             "stars": 144,
@@ -355,11 +355,11 @@
             "id": 53184524,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T20:49:42Z",
+            "last_commit": "2026-10-26T16:54:13Z",
             "open_issues": 8,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 523,
+            "stars": 524,
             "topics": [
               "7-card-poker",
               "cactus-kev",
@@ -423,7 +423,7 @@
             "open_issues": 92,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2596,
+            "stars": 2598,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:58:21.772Z",
+    "last_updated": "2026-10-26T20:59:31.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -579,11 +579,11 @@
       "id": 1169928059,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-08T10:22:49Z",
+      "last_commit": "2026-10-26T19:30:22Z",
       "open_issues": 1,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 73,
+      "stars": 75,
       "topics": [
         "artificial-intelligence",
         "awesome",
@@ -597,7 +597,7 @@
         "reinforcement-learning"
       ]
     },
-    "original_repository_sha": "383f090748236598146c486fdd58f93628dd4d8f",
+    "original_repository_sha": "eb69cb67dd1b3023be5092ba256c26f336b0399b",
     "enhanced_repository": "enhansome/enhansome-poker-ai",
     "enhanced_repository_description": null,
     "title": "Awesome Poker AI with stars"
