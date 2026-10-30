@@ -77,11 +77,11 @@
             "id": 198232685,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T18:49:36Z",
+            "last_commit": "2026-10-30T14:48:22Z",
             "open_issues": 80,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5565,
+            "stars": 5566,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 81,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3584,
+            "stars": 3586,
             "topics": [
               "ai",
               "blackjack",
@@ -359,7 +359,7 @@
             "open_issues": 8,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 525,
+            "stars": 526,
             "topics": [
               "7-card-poker",
               "cactus-kev",
@@ -423,7 +423,7 @@
             "open_issues": 92,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2603,
+            "stars": 2607,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:03:05.973Z",
+    "last_updated": "2026-10-30T20:42:19.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -580,7 +580,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-26T19:30:22Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
       "stars": 76,

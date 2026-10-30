@@ -66,9 +66,9 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Frameworks
 
-* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,565 | 🐛 80 | 🌐 Python | 📅 2026-10-29 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
+* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,566 | 🐛 80 | 🌐 Python | 📅 2026-10-30 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
 
-* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,584 | 🐛 81 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
+* [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,586 | 🐛 81 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
 
 * [neuron\_poker](https://github.com/dickreuter/neuron_poker) ⭐ 729 | 🐛 18 | 🌐 Python | 📅 2025-08-04 — Texas Hold'em OpenAI Gym environment with Keras-RL and a C++ equity module (\~500x faster than Python).
 
@@ -86,13 +86,13 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 * [deuces](https://github.com/worldveil/deuces) ⭐ 625 | 🐛 5 | 🌐 Python | 📅 2024-07-08 — Original pure-Python hand evaluation library, written for the MIT Pokerbots Competition.
 
-* [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) ⭐ 525 | 🐛 8 | 🌐 C | 📅 2026-10-26 — High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.
+* [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) ⭐ 526 | 🐛 8 | 🌐 C | 📅 2026-10-26 — High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.
 
 * [treys](https://github.com/ihendley/treys) ⭐ 181 | 🐛 13 | 🌐 Python | 📅 2023-07-15 — Python 3 hand evaluator using bit arithmetic and lookup tables; evaluates 5/6/7 card hands (\~250K evaluations/sec).
 
 ## Open-Source Solvers
 
-* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,603 | 🐛 92 | 🌐 C++ | 📅 2026-10-08 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
+* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,607 | 🐛 92 | 🌐 C++ | 📅 2026-10-08 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
 
 * [ReBeL](https://github.com/facebookresearch/rebel) ⚠️ Archived — Meta's official open-source implementation of the ReBeL algorithm for imperfect-information games.
 
@@ -206,4 +206,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
