@@ -78,10 +78,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-31T21:52:08Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5569,
+            "stars": 5577,
             "topics": [
               "cpp",
               "games",
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 517,
+            "stars": 519,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -355,11 +355,11 @@
             "id": 53184524,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T16:54:13Z",
+            "last_commit": "2026-11-02T16:54:09Z",
             "open_issues": 8,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 526,
+            "stars": 527,
             "topics": [
               "7-card-poker",
               "cactus-kev",
@@ -473,10 +473,10 @@
             "language": "Rust",
             "license": "AGPL-3.0",
             "last_commit": "2024-07-09T07:11:20Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "counterfactual-regret-minimization",
               "game-theory",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:27:07.506Z",
+    "last_updated": "2026-11-02T23:27:18.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -583,7 +583,7 @@
       "open_issues": 2,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 77,
+      "stars": 78,
       "topics": [
         "artificial-intelligence",
         "awesome",
