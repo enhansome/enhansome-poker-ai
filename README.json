@@ -77,11 +77,11 @@
             "id": 198232685,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T21:52:08Z",
+            "last_commit": "2026-11-05T14:09:24Z",
             "open_issues": 83,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5582,
+            "stars": 5585,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 81,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3587,
+            "stars": 3588,
             "topics": [
               "ai",
               "blackjack",
@@ -148,7 +148,7 @@
             "open_issues": 18,
             "owner": "dickreuter",
             "repo": "neuron_poker",
-            "stars": 729,
+            "stars": 728,
             "topics": [
               "gym-environment",
               "holdem",
@@ -423,7 +423,7 @@
             "open_issues": 92,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2609,
+            "stars": 2610,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -476,7 +476,7 @@
             "open_issues": 10,
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 379,
+            "stars": 380,
             "topics": [
               "counterfactual-regret-minimization",
               "game-theory",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:49:51.169Z",
+    "last_updated": "2026-11-05T21:57:02.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -583,7 +583,7 @@
       "open_issues": 2,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 79,
+      "stars": 76,
       "topics": [
         "artificial-intelligence",
         "awesome",
