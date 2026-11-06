@@ -77,11 +77,11 @@
             "id": 198232685,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T14:09:24Z",
-            "open_issues": 83,
+            "last_commit": "2026-11-06T20:44:08Z",
+            "open_issues": 85,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5585,
+            "stars": 5583,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 81,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3588,
+            "stars": 3587,
             "topics": [
               "ai",
               "blackjack",
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T20:22:25Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-06T11:33:07Z",
+            "open_issues": 10,
             "owner": "dberweger2017",
             "repo": "CFR-NLHE-6max",
             "stars": 132,
@@ -338,7 +338,7 @@
             "open_issues": 5,
             "owner": "worldveil",
             "repo": "deuces",
-            "stars": 625,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -419,11 +419,11 @@
             "id": 237020873,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T08:06:56Z",
-            "open_issues": 92,
+            "last_commit": "2026-11-06T03:52:13Z",
+            "open_issues": 89,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2610,
+            "stars": 2612,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -506,7 +506,7 @@
             "open_issues": 27,
             "owner": "ericgjackson",
             "repo": "slumbot2019",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:57:02.007Z",
+    "last_updated": "2026-11-06T21:27:32.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -583,7 +583,7 @@
       "open_issues": 2,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 76,
+      "stars": 75,
       "topics": [
         "artificial-intelligence",
         "awesome",
