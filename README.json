@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "rebel",
-                "stars": 704,
+                "stars": 703,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.054Z"
@@ -108,7 +108,7 @@
             "open_issues": 81,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3590,
+            "stars": 3591,
             "topics": [
               "ai",
               "blackjack",
@@ -177,7 +177,7 @@
             "open_issues": 21,
             "owner": "ishikota",
             "repo": "PyPokerEngine",
-            "stars": 726,
+            "stars": 727,
             "topics": [
               "ai-poker-game",
               "poker-engine",
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T21:33:31Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-10T21:12:07Z",
+            "open_issues": 13,
             "owner": "dberweger2017",
             "repo": "CFR-NLHE-6max",
             "stars": 133,
@@ -338,7 +338,7 @@
             "open_issues": 5,
             "owner": "worldveil",
             "repo": "deuces",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -455,7 +455,7 @@
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "rebel",
-            "stars": 704,
+            "stars": 703,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -476,7 +476,7 @@
             "open_issues": 10,
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 380,
+            "stars": 381,
             "topics": [
               "counterfactual-regret-minimization",
               "game-theory",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:12:31.856Z",
+    "last_updated": "2026-11-10T21:46:53.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
