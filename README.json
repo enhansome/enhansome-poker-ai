@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 525,
+            "stars": 527,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -270,8 +270,8 @@
             "id": 939549761,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T21:12:07Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-11T20:06:16Z",
+            "open_issues": 7,
             "owner": "dberweger2017",
             "repo": "CFR-NLHE-6max",
             "stars": 133,
@@ -533,7 +533,7 @@
             "open_issues": 4,
             "owner": "HarperJonesGPT",
             "repo": "PokerGPT",
-            "stars": 246,
+            "stars": 247,
             "topics": [
               "poker",
               "pokerai",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:46:53.770Z",
+    "last_updated": "2026-11-11T22:38:43.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",

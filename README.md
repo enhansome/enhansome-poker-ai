@@ -76,9 +76,9 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 * [PokerRL](https://github.com/EricSteinberger/PokerRL) ⭐ 548 | 🐛 8 | 🌐 Python | 📅 2023-03-31 — Multi-agent deep RL framework implementing NFSP, Deep CFR, Single Deep CFR, and RPG; supports distributed computing via Ray.
 
-* [PokerKit](https://github.com/uoftcprg/pokerkit) ⭐ 525 | 🐛 0 | 🌐 Python | 📅 2026-10-12 — Comprehensive Python library supporting Texas Hold'em, Omaha, Stud, Razz, and custom game variants (University of Toronto). [Paper](https://arxiv.org/abs/2308.07327).
+* [PokerKit](https://github.com/uoftcprg/pokerkit) ⭐ 527 | 🐛 0 | 🌐 Python | 📅 2026-10-12 — Comprehensive Python library supporting Texas Hold'em, Omaha, Stud, Razz, and custom game variants (University of Toronto). [Paper](https://arxiv.org/abs/2308.07327).
 
-* [deepcfr-texas-no-limit-holdem-6-players](https://github.com/dberweger2017/deepcfr-texas-no-limit-holdem-6-players) ⭐ 133 | 🐛 13 | 🌐 Python | 📅 2026-11-10 — Deep CFR implementation for 6-player NLHE with progressive training phases (random opponents → self-play → mixed pools), GRU-based opponent modeling, and a PyQt5 GUI. 80+ stars (2024-2025).
+* [deepcfr-texas-no-limit-holdem-6-players](https://github.com/dberweger2017/deepcfr-texas-no-limit-holdem-6-players) ⭐ 133 | 🐛 7 | 🌐 Python | 📅 2026-11-11 — Deep CFR implementation for 6-player NLHE with progressive training phases (random opponents → self-play → mixed pools), GRU-based opponent modeling, and a PyQt5 GUI. 80+ stars (2024-2025).
 
 * [clubs](https://github.com/fschlatt/clubs) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2024-02-06 — Python poker engine with OpenAI Gym interface; supports arbitrary community card game configurations (\~714K hand evaluations/sec).
 
@@ -140,7 +140,7 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 A growing number of projects attempt to use general-purpose LLMs for poker. None are competitive with CFR-based solvers, but they serve as research tools and benchmarks for LLM reasoning capabilities.
 
-* [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) ⭐ 246 | 🐛 4 | 🌐 HTML | 📅 2023-12-26 — PokerStars screen-reading bot using GPT-4 API for decision-making via OCR + prompt engineering. Not fine-tuned — pure API calls. A hobby project, not competitive.
+* [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT) ⭐ 247 | 🐛 4 | 🌐 HTML | 📅 2023-12-26 — PokerStars screen-reading bot using GPT-4 API for decision-making via OCR + prompt engineering. Not fine-tuned — pure API calls. A hobby project, not competitive.
 
 * [poker\_LLM](https://github.com/whmmy/poker_LLM) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2026-01-19 — AI-powered Texas Hold'em framework where LLMs (OpenAI, Claude, DeepSeek, QWen) act as players. Includes a Vue 3 replay visualization system and AI self-reflection on decisions. Python + Vue 3 (2024-2025).
 
@@ -206,4 +206,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
