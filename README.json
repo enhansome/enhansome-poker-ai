@@ -77,11 +77,11 @@
             "id": 198232685,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T20:44:08Z",
+            "last_commit": "2026-11-13T15:16:25Z",
             "open_issues": 91,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5590,
+            "stars": 5591,
             "topics": [
               "cpp",
               "games",
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:12:41.413Z",
+    "last_updated": "2026-11-13T21:56:20.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -580,7 +580,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-26T19:30:22Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
       "stars": 75,
