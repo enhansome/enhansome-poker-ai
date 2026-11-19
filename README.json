@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "rebel",
-                "stars": 703,
+                "stars": 702,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.054Z"
@@ -49,7 +49,7 @@
                 "open_issues": 11,
                 "owner": "AI-Decision",
                 "repo": "DecisionHoldem",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.054Z"
@@ -81,7 +81,7 @@
             "open_issues": 95,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5598,
+            "stars": 5599,
             "topics": [
               "cpp",
               "games",
@@ -108,7 +108,7 @@
             "open_issues": 81,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3591,
+            "stars": 3589,
             "topics": [
               "ai",
               "blackjack",
@@ -128,31 +128,6 @@
               "reinforcement-learning",
               "texas",
               "uno"
-            ]
-          },
-          "first_seen": "2026-08-29T00:32:41.054Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PyPokerEngine",
-          "description": "Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Poker engine for poker AI development in Python",
-            "homepage": "https://ishikota.github.io/PyPokerEngine/",
-            "id": 60441516,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-04-10T13:40:46Z",
-            "open_issues": 21,
-            "owner": "ishikota",
-            "repo": "PyPokerEngine",
-            "stars": 727,
-            "topics": [
-              "ai-poker-game",
-              "poker-engine",
-              "reinforcement-learning"
             ]
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -181,6 +156,31 @@
               "openai-gym",
               "poker",
               "pokerbot",
+              "reinforcement-learning"
+            ]
+          },
+          "first_seen": "2026-08-29T00:32:41.054Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PyPokerEngine",
+          "description": "Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Poker engine for poker AI development in Python",
+            "homepage": "https://ishikota.github.io/PyPokerEngine/",
+            "id": 60441516,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-04-10T13:40:46Z",
+            "open_issues": 21,
+            "owner": "ishikota",
+            "repo": "PyPokerEngine",
+            "stars": 725,
+            "topics": [
+              "ai-poker-game",
+              "poker-engine",
               "reinforcement-learning"
             ]
           },
@@ -232,7 +232,7 @@
             "open_issues": 0,
             "owner": "uoftcprg",
             "repo": "pokerkit",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -338,7 +338,7 @@
             "open_issues": 5,
             "owner": "worldveil",
             "repo": "deuces",
-            "stars": 627,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -423,7 +423,7 @@
             "open_issues": 89,
             "owner": "bupticybee",
             "repo": "TexasSolver",
-            "stars": 2619,
+            "stars": 2621,
             "topics": [
               "game-theory",
               "game-theory-algorithms",
@@ -455,7 +455,7 @@
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "rebel",
-            "stars": 703,
+            "stars": 702,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -476,7 +476,7 @@
             "open_issues": 10,
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 382,
+            "stars": 381,
             "topics": [
               "counterfactual-regret-minimization",
               "game-theory",
@@ -506,7 +506,7 @@
             "open_issues": 27,
             "owner": "ericgjackson",
             "repo": "slumbot2019",
-            "stars": 179,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.054Z"
@@ -533,7 +533,7 @@
             "open_issues": 4,
             "owner": "HarperJonesGPT",
             "repo": "PokerGPT",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "poker",
               "pokerai",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:55:27.256Z",
+    "last_updated": "2026-11-19T23:00:56.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
@@ -583,7 +583,7 @@
       "open_issues": 4,
       "owner": "PokerBotAI",
       "repo": "awesome-poker-ai",
-      "stars": 75,
+      "stars": 71,
       "topics": [
         "artificial-intelligence",
         "awesome",
