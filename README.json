@@ -81,7 +81,7 @@
             "open_issues": 95,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5601,
+            "stars": 5603,
             "topics": [
               "cpp",
               "games",
@@ -359,7 +359,7 @@
             "open_issues": 7,
             "owner": "HenryRLee",
             "repo": "PokerHandEvaluator",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "7-card-poker",
               "cactus-kev",
@@ -476,7 +476,7 @@
             "open_issues": 10,
             "owner": "b-inary",
             "repo": "postflop-solver",
-            "stars": 381,
+            "stars": 382,
             "topics": [
               "counterfactual-regret-minimization",
               "game-theory",
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:38:09.258Z",
+    "last_updated": "2026-11-21T21:36:52.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of AI poker resources: research papers, open-source tools, bots, solvers, and strategy guides",
