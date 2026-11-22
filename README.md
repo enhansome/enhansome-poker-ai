@@ -66,13 +66,13 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 ## Open-Source Frameworks
 
-* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,603 | 🐛 95 | 🌐 Python | 📅 2026-11-14 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
+* [OpenSpiel](https://github.com/google-deepmind/open_spiel) ⭐ 5,605 | 🐛 95 | 🌐 Python | 📅 2026-11-14 — Google DeepMind's collection of environments and algorithms for RL research in games, with extensive poker support (Kuhn, Leduc, ACPC universal poker interface) and CFR/MCCFR implementations.
 
 * [RLCard](https://github.com/datamllab/rlcard) ⭐ 3,589 | 🐛 81 | 🌐 Python | 📅 2024-06-26 — Toolkit for RL in card games; supports Limit/No-Limit Hold'em, Leduc, Blackjack, Mahjong, UNO, and more. [Website](https://rlcard.org/).
 
 * [neuron\_poker](https://github.com/dickreuter/neuron_poker) ⭐ 727 | 🐛 18 | 🌐 Python | 📅 2025-08-04 — Texas Hold'em OpenAI Gym environment with Keras-RL and a C++ equity module (\~500x faster than Python).
 
-* [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) ⭐ 725 | 🐛 21 | 🌐 Python | 📅 2024-04-10 — Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.
+* [PyPokerEngine](https://github.com/ishikota/PyPokerEngine) ⭐ 724 | 🐛 21 | 🌐 Python | 📅 2024-04-10 — Lightweight Python poker engine for AI development with an Emulator class for RL and a browser-based GUI.
 
 * [PokerRL](https://github.com/EricSteinberger/PokerRL) ⭐ 548 | 🐛 8 | 🌐 Python | 📅 2023-03-31 — Multi-agent deep RL framework implementing NFSP, Deep CFR, Single Deep CFR, and RPG; supports distributed computing via Ray.
 
@@ -88,15 +88,15 @@ SpinGPT is the notable exception — but it requires solver-generated training d
 
 * [PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) ⭐ 530 | 🐛 7 | 🌐 C | 📅 2026-11-15 — High-performance C/C++ evaluator using a perfect hash algorithm; supports 5-7 card hands and Omaha (PLO4/5/6). Python bindings available.
 
-* [treys](https://github.com/ihendley/treys) ⭐ 182 | 🐛 16 | 🌐 Python | 📅 2023-07-15 — Python 3 hand evaluator using bit arithmetic and lookup tables; evaluates 5/6/7 card hands (\~250K evaluations/sec).
+* [treys](https://github.com/ihendley/treys) ⭐ 182 | 🐛 13 | 🌐 Python | 📅 2023-07-15 — Python 3 hand evaluator using bit arithmetic and lookup tables; evaluates 5/6/7 card hands (\~250K evaluations/sec).
 
 ## Open-Source Solvers
 
-* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,622 | 🐛 89 | 🌐 C++ | 📅 2026-11-06 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
+* [TexasSolver](https://github.com/bupticybee/TexasSolver) ⭐ 2,622 | 🐛 91 | 🌐 C++ | 📅 2026-11-06 — Free open-source Texas Hold'em GTO solver with a GUI (Windows/macOS/Linux); performance comparable to PioSOLVER. [Website](https://bupticybee.github.io/texassolver_page/).
 
 * [ReBeL](https://github.com/facebookresearch/rebel) ⚠️ Archived — Meta's official open-source implementation of the ReBeL algorithm for imperfect-information games.
 
-* [postflop-solver](https://github.com/b-inary/postflop-solver) ⭐ 382 | 🐛 10 | 🌐 Rust | 📅 2024-07-09 — Rust-based postflop GTO solver using Discounted CFR. Also available as a [web app](https://wasm-postflop.pages.dev/) and [desktop app](https://github.com/b-inary/desktop-postflop) ⭐ 357 | 🐛 12 | 🌐 Vue | 📅 2023-11-13.
+* [postflop-solver](https://github.com/b-inary/postflop-solver) ⭐ 383 | 🐛 10 | 🌐 Rust | 📅 2024-07-09 — Rust-based postflop GTO solver using Discounted CFR. Also available as a [web app](https://wasm-postflop.pages.dev/) and [desktop app](https://github.com/b-inary/desktop-postflop) ⭐ 357 | 🐛 12 | 🌐 Vue | 📅 2023-11-13.
 
 * [slumbot2019](https://github.com/ericgjackson/slumbot2019) ⭐ 178 | 🐛 27 | 🌐 C++ | 📅 2023-09-18 — C++ CFR implementations (CFR+, MCCFR, Targeted CFR) by the creator of Slumbot, a multi-year ACPC champion.
 
@@ -206,4 +206,4 @@ Contributions welcome! Please submit a pull request or open an issue to suggest 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
